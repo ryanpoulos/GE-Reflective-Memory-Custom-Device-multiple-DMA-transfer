@@ -2,8 +2,8 @@
 <CustomDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Custom Device.xsd">
 	<XSDVersion Major="2010" Minor="0" Fix="0" Build="0" />
 	<AddMenu>
-		<eng>RefMem DMA</eng>
-		<loc>RefMem DMA</loc>
+		<eng>Reflective Memory DMA</eng>
+		<loc>Reflective Memory DMA</loc>
 	</AddMenu>
 	<Version>2.3</Version>
 	<Type>Asynchronous</Type>
@@ -83,8 +83,8 @@
 		</Page>
 		<Page>
 			<Name>
-				<eng>RefMem DMA</eng>
-				<loc>RefMem DMA</loc>
+				<eng>Reflective Memory DMA</eng>
+				<loc>Reflective Memory DMA</loc>
 			</Name>
 			<GUID>1d8f030b-140c-49c3-a487-fe6eca8ef735</GUID>
 			<Glyph>

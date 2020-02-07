@@ -31,6 +31,8 @@
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Copy .LLB to NI VeriStand dir.vi" Type="VI" URL="../Custom Device/Utility/Copy .LLB to NI VeriStand dir.vi"/>
+			<Item Name="Create CSV.vi" Type="VI" URL="../Custom Device/Utility/Create CSV.vi"/>
+			<Item Name="Script CSV.vi" Type="VI" URL="../Custom Device/Utility/Script CSV.vi"/>
 		</Item>
 		<Item Name="Custom Device RefMem DMA.xml" Type="Document" URL="../Custom Device RefMem DMA.xml"/>
 		<Item Name="GE_RM_Real Time.lvlib" Type="Library" URL="../Custom Device/Real-Time/GE_RM_Real Time.lvlib"/>
@@ -502,7 +504,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/Copy .LLB to NI VeriStand dir.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D3587155-F214-4A1F-B325-BED3B6E333EF}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Pharlap/RefMem DMA Engine.llb</Property>
-				<Property Name="Bld_version.build" Type="Int">23</Property>
+				<Property Name="Bld_version.build" Type="Int">28</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/Pharlap/RefMem DMA Engine.llb</Property>
